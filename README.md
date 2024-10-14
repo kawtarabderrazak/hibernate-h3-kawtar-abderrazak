@@ -20,3 +20,5 @@ MySQL pour la gestion de la base de données.
 Hibernate-JPA pour la gestion de la persistance des entités.
 Pilote JDBC MySQL pour la connexion avec la base de données.
 
+
+https://github.com/user-attachments/assets/1cf5a99b-89e5-457f-b33d-77acb049c5e9
